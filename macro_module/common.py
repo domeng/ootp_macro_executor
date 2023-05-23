@@ -36,6 +36,18 @@ def wait_image(img, grayscale=True, confidence=0.99, max_wait=10, fail_on_not_fo
         raise Exception("Can't find img")
     return False
 
+def find_and_click_setting_value(img, grayscale = True, confidence=0.99, fail_on_not_found=True, **kwargs):
+    pos = pg.locateCenterOnScreen(img, grayscale = grayscale)
+    print(pos)
+    pos2 = pg.locateCenterOnScreen(i('game_setting_down_arrow'), grayscale = grayscale, region=(pos.x,pos.y-20,pos.x+1920,pos.y+20))
+    
+    if pos2 is None:
+        if fail_on_not_found:
+            raise Exception("Can't find img")
+        return False
 
+    pg.moveTo(pos2)
+    pg.click()
+    return True
 
 

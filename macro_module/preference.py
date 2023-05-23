@@ -1,26 +1,47 @@
 import pyautogui as pg
 import time
-from macro_module.common import find_and_click, wait_image, i
+from macro_module.common import find_and_click, wait_image, i, find_and_click_setting_value
 
-def setup_dump_all_game_logs():
+def select_nth_setting_option(n):
+    for i in range(n):
+        pg.press('down')
+        time.sleep(0.5)
+    pg.keyDown('enter')
+    time.sleep(0.1)
+    pg.keyUp('enter')
+
+def optimize_run():
+    find_and_click(i('in_game_game_tab'))
+    wait_image(i('game_tab_game_settings'))
+    find_and_click(i('game_tab_game_settings'))
+
+    # disable preseason pred
+    wait_image(i('game_setting_preseason_pred'))
+    find_and_click_setting_value(i('game_setting_preseason_pred'))
+    select_nth_setting_option(2) # on demand
+
+    # disable save box score
+    wait_image(i('game_setting_save_box_scores'))
+    find_and_click_setting_value(i('game_setting_save_box_scores'))
+    select_nth_setting_option(6) # none
+
+    # disable save replay
+    wait_image(i('game_setting_save_replay'))
+    find_and_click_setting_value(i('game_setting_save_replay'))
+    select_nth_setting_option(6) # none
+
+def setup_dump_game_logs(major_only=False):
     find_and_click(i('in_game_game_tab'))
     wait_image(i('game_tab_game_settings'))
     find_and_click(i('game_tab_game_settings'))
 
     wait_image(i('game_setting_save_game_logs_from'))
-    pos = pg.locateCenterOnScreen(i('game_setting_save_game_logs_from'), grayscale = True)
-    pos2 = pg.locateCenterOnScreen(i('human_teams'), grayscale = True, region=(pos.x,pos.y-20,pos.x+1920,pos.y+20)) 
-    print(pos2)
-    if pos2 != None:
-        pg.click(pos2)
-        time.sleep(0.5)
-        pg.press('down')
-        time.sleep(0.5)
-        pg.keyDown('enter')
-        time.sleep(0.1)
-        pg.keyUp('enter')
+    find_and_click_setting_value(i('game_setting_save_game_logs_from'))
+
+    if major_only:
+        select_nth_setting_option(2)
     else:
-        raise Exception("Can't find 'Human Teams' img after 'Save Game Logs from' menu")
+        select_nth_setting_option(1)
 
 def setup_do_not_disturb():
     find_and_click(i('jim_smith_manager_name'))
