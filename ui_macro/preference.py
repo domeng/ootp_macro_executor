@@ -1,6 +1,6 @@
 import pyautogui as pg
 import time
-from macro_module.common import find_and_click, wait_image, i, find_and_click_setting_value, select_nth_setting_option
+from ui_macro.common import find_and_click, wait_image, i, find_and_click_setting_value, select_nth_setting_option
 
 def optimize_run():
     find_and_click(i('in_game_game_tab'))

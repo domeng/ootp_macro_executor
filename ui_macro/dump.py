@@ -1,6 +1,6 @@
 import pyautogui as pg
 import time
-from macro_module.common import find_and_click, wait_image, i, select_nth_setting_option
+from ui_macro.common import find_and_click, wait_image, i, select_nth_setting_option
 
 def dump_csv():
     find_and_click(i('in_game_game_tab'))

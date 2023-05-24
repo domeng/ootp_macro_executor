@@ -1,4 +1,4 @@
-from macro_module.common import find_and_click, wait_image, i, find_and_click_setting_value
+from ui_macro.common import find_and_click, wait_image, i, find_and_click_setting_value
 
 def play_until_playoff_end():
     find_and_click(i('play'))

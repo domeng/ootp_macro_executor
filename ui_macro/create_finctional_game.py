@@ -6,7 +6,7 @@
 
 import pyautogui as pg
 import time
-from macro_module.common import find_and_click, wait_image, i
+from ui_macro.common import find_and_click, wait_image, i
 
 def create_finctional_game(save_name):
     find_and_click(i('start'))

@@ -3,7 +3,7 @@
 import pyautogui as pg
 import time
 from pyscreeze import Point
-from macro_module import const
+from ui_macro import const
 
 def select_nth_setting_option(n):
     if n >= 0:
