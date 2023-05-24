@@ -5,6 +5,23 @@ import time
 from pyscreeze import Point
 from macro_module import const
 
+def select_nth_setting_option(n):
+    if n >= 0:
+        for i in range(n):
+            pg.press('down')
+            time.sleep(0.5)
+    else:
+        pg.press('end')
+        time.sleep(0.5)
+        pg.press('end')
+        time.sleep(0.5)
+        for i in range(-n-1):
+            pg.press('up')
+            time.sleep(0.5)
+    pg.keyDown('enter')
+    time.sleep(0.1)
+    pg.keyUp('enter')
+
 def i(filename):
     return const.IMG_PATH + filename + ".png"
 

@@ -1,8 +1,21 @@
 import pyautogui as pg
 import time
-from macro_module.common import find_and_click, wait_image, i
+from macro_module.common import find_and_click, wait_image, i, select_nth_setting_option
 
-def dump_player_ratings():
+def dump_csv():
+    find_and_click(i('in_game_game_tab'))
+    wait_image(i('game_tab_game_settings'))
+    find_and_click(i('game_tab_game_settings'))
+    wait_image(i('game_setting_database'))
+    find_and_click(i('game_setting_database'))
+    wait_image(i('game_setting_database_tools'))
+    find_and_click(i('game_setting_database_tools'))
+    
+    select_nth_setting_option(-5)
+    
+    wait_image(i('in_game_game_tab'), max_wait=300) # wait until loading progress bar is gone
+
+def dump_player_roaster():
     find_and_click(i('in_game_game_tab'))
     wait_image(i('game_tab_game_settings'))
     find_and_click(i('game_tab_game_settings'))

@@ -1,14 +1,6 @@
 import pyautogui as pg
 import time
-from macro_module.common import find_and_click, wait_image, i, find_and_click_setting_value
-
-def select_nth_setting_option(n):
-    for i in range(n):
-        pg.press('down')
-        time.sleep(0.5)
-    pg.keyDown('enter')
-    time.sleep(0.1)
-    pg.keyUp('enter')
+from macro_module.common import find_and_click, wait_image, i, find_and_click_setting_value, select_nth_setting_option
 
 def optimize_run():
     find_and_click(i('in_game_game_tab'))
