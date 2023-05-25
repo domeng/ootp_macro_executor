@@ -9,9 +9,13 @@ import time
 from macro_module.common import find_and_click, wait_image, i
 
 def create_finctional_game(save_name):
-    find_and_click(i('start'))
-
-    find_and_click(i('optout_challenge'))
+    try:
+        find_and_click(i('start'))
+        find_and_click(i('optout_challenge'))
+    except:
+        find_and_click(i('start'))
+        find_and_click(i('optout_challenge'))
+        
 
     wait_image(i('start_fictional'), confidence=0.9)
     find_and_click(i('start_fictional'), confidence=0.9)

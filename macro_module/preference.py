@@ -8,7 +8,14 @@ def optimize_run():
     find_and_click(i('game_tab_game_settings'))
 
     # disable preseason pred
-    wait_image(i('game_setting_preseason_pred'))
+    try:
+        wait_image(i('game_setting_preseason_pred'))
+    except:
+        #try one more time
+        wait_image(i('game_tab_game_settings'))
+        find_and_click(i('game_tab_game_settings'))
+        wait_image(i('game_setting_preseason_pred'))
+        
     find_and_click_setting_value(i('game_setting_preseason_pred'))
     select_nth_setting_option(2) # on demand
 
