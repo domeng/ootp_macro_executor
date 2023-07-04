@@ -1,0 +1,2 @@
+human_manager_id,is_commish,first_name,last_name,nick_name,age,date_of_birth,city_of_birth_id,nation_id,second_nation_id,weight,height,retired,free_agent,league_id,last_league_id,team_id,last_team_id,organization_id,last_organization_id,language_ids0,language_ids1,uniform_number,experience,person_type,bats,throws,personality_greed,personality_loyalty,personality_play_for_winner,personality_work_ethic,personality_intelligence,personality_leader
+1,0,"Jim","Smith","",46,"1977-3-15",0,206,0,190,183,0,0,0,0,0,0,0,0,-1,-1,0,0,2,0,0,0,150,0,0,0,0

@@ -1,0 +1,245 @@
+nation_id,name,short_name,abbreviation,demonym,population,gender,baseball_quality,continent_id,main_language_id,quality_total,capital_id,use_hardcoded_ml_player_origins,this_is_the_usa
+1,"Afghanistan","Afghanistan","AFG","Afghan",29863010,0,0,2,17,1,36236,0,0
+2,"Albania","Albania","ALB","Albanian",3195000,0,0,3,21,1,80119,0,0
+3,"Algeria","Algeria","ALG","Algerian",34895000,0,0,1,17,1,1581,0,0
+4,"American Samoa","American Samoa","ASA","American Samoan",67000,0,2,5,30,10,62067,0,0
+5,"Andorra","Andorra","AND","Andorran",86000,0,0,3,1,1,2953,0,0
+6,"Angola","Angola","ANG","Angolan",18498000,0,0,1,5,1,41583,0,0
+7,"Anguilla","Anguilla","AIA","Anguillan",15000,0,0,4,20,1,79568,0,0
+8,"Antigua & Barbuda","Antigua & Barbuda","ATG","Antiguan",88000,0,0,4,20,1,69076,0,0
+9,"Argentina","Argentina","ARG","Argentine",40091359,0,3,6,1,50,12296,0,0
+10,"Armenia","Armenia","ARM","Armenian",3230100,0,1,3,26,2,88682,0,0
+11,"Aruba","Aruba","ARU","Aruban",107000,0,4,4,6,250,57516,0,0
+12,"Australia","Australia","AUS","Australian",22577728,0,4,5,28,250,17031,0,0
+13,"Austria","Austria","AUT","Austrian",8372930,0,2,3,31,10,85386,0,0
+14,"Azerbaijan","Azerbaijan","AZE","Azeri",8896900,0,0,3,29,1,6356,0,0
+240,"Azores","Azores","AZR","Azorean",235374,0,0,3,5,1,60197,0,0
+15,"Bahamas","Bahamas","BAH","Bahaman",342000,0,2,4,20,10,54308,0,0
+16,"Bahrain","Bahrain","BHR","Bahraini",791000,0,0,2,17,1,47492,0,0
+17,"Bangladesh","Bangladesh","BAN","Bangladeshi",162221000,0,0,2,37,1,20405,0,0
+18,"Barbados","Barbados","BRB","Barbadian",256000,0,1,4,20,2,11679,0,0
+19,"Belarus","Belarus","BLR","Belarusian",9755106,0,1,3,13,2,50557,0,0
+20,"Belgium","Belgium","BEL","Belgian",10827519,0,2,3,6,10,12042,0,0
+21,"Belize","Belize","BLZ","Belizean",322100,0,2,4,20,10,8423,0,0
+23,"Bermuda","Bermuda","BER","Bermudan",65000,0,1,4,20,2,92368,0,0
+24,"Bhutan","Bhutan","BHU","Bhutanese",2162546,0,0,2,27,1,79648,0,0
+25,"Bolivia","Bolivia","BOL","Bolivian",9879000,0,1,6,1,2,71061,0,0
+26,"Bosnia & Herzegovina","Bosnia & Herzegovina","BIH","Bosnian",3781000,0,0,3,22,1,71580,0,0
+27,"Botswana","Botswana","BOT","Motswana",1950000,0,0,1,19,1,27413,0,0
+28,"Brazil","Brazil","BRA","Brazilian",194116780,0,3,6,5,50,11404,0,0
+29,"British Virgin Islands","British Virgin Islands","VGB","British Virgin Islander",23000,0,1,4,20,2,66577,0,0
+30,"Brunei","Brunei","BRU","Bruneian",400000,0,1,2,36,2,6807,0,0
+31,"Bulgaria","Bulgaria","BUL","Bulgarian",7576751,0,2,3,22,10,74811,0,0
+32,"Burkina Faso","Burkina Faso","BFA","Burkinabé",15757000,0,0,1,19,1,58026,0,0
+33,"Burundi","Burundi","BDI","Burundian",8303000,0,0,1,19,1,12397,0,0
+22,"Bénin","Bénin","BEN","Béninois",8935000,0,0,1,19,1,15299,0,0
+34,"Cambodia","Cambodia","CAM","Cambodian",14805000,0,0,2,38,1,58735,0,0
+35,"Cameroon","Cameroon","CMR","Cameroonian",19522000,0,1,1,19,2,21371,0,0
+36,"Canada","Canada","CAN","Canadian",35151728,0,5,4,32,1250,57981,0,0
+37,"Cape Verde","Cape Verde","CPV","Cape Verdean",506807,0,0,1,5,1,60796,0,0
+38,"Cayman Islands","Cayman Islands","CAY","Caymanian",56000,0,0,4,20,1,28178,0,0
+39,"Central African Republic","Central African Republic","CTA","Central African",4422000,0,0,1,19,1,6903,0,0
+40,"Chad","Chad","CHA","Chadian",11274106,0,0,1,17,1,54523,0,0
+41,"Chile","Chile","CHI","Chilean",17180010,0,3,6,1,50,71387,0,0
+42,"China","China","CHN","Chinese",1341780000,0,3,2,4,50,63480,0,0
+44,"Colombia","Colombia","COL","Colombian",45789824,0,4,6,1,250,10334,0,0
+45,"Comoros","Comoros","COM","Comoran",676000,0,0,1,17,1,51890,0,0
+192,"Congo","Congo","CGO","Congolese",3998904,0,0,1,19,1,11461,0,0
+46,"Cook Islands","Cook Islands","COK","Cook Islander",20000,0,2,5,30,10,5040,0,0
+47,"Costa Rica","Costa Rica","CRC","Costa Rican",4579000,0,4,4,1,250,70174,0,0
+48,"Croatia","Croatia","CRO","Croatian",4443000,0,1,3,22,2,89029,0,0
+49,"Cuba","Cuba","CUB","Cuban",11239363,0,5,4,1,1250,31031,0,0
+231,"Curaçao","Curaçao","CUR","Curaçaoan",141766,0,4,4,1,250,87084,0,0
+50,"Cyprus","Cyprus","CYP","Cypriot",823206,0,1,3,23,2,55461,0,0
+51,"Czech Republic","Czech Republic","CZE","Czech",10476543,0,2,3,14,10,60791,0,0
+53,"Denmark","Denmark","DEN","Danish",5532531,0,1,3,25,2,14982,0,0
+54,"Djibouti","Djibouti","DJI","Djiboutian",864000,0,0,1,17,1,34666,0,0
+55,"Dominica","Dominica","DMA","Dominican (Dominica)",78940,0,0,4,20,1,65464,0,0
+56,"Dominican Republic","Dominican Republic","DOM","Dominican",10090000,0,5,4,1,1250,71432,0,0
+228,"DR Congo","DR Congo","COD","Zairean",68692542,0,0,1,19,1,38640,0,0
+57,"East Timor","East Timor","TMP","East Timorese",1134000,0,0,2,36,1,20666,0,0
+58,"Ecuador","Ecuador","ECU","Ecuadoran",14312302,0,1,6,1,2,64121,0,0
+59,"Egypt","Egypt","EGY","Egyptian",79274038,0,0,1,17,1,16495,0,0
+60,"El Salvador","El Salvador","SLV","Salvadoran",6163000,0,3,4,1,50,70643,0,0
+61,"England","England","ENG","English",49138831,0,3,3,20,50,41733,0,0
+62,"Equatorial Guinea","Equatorial Guinea","EQG","Equatoguinean",676000,0,0,1,19,1,47119,0,0
+63,"Eritrea","Eritrea","ERI","Eritrean",5073000,0,0,1,17,1,174,0,0
+64,"Estonia","Estonia","EST","Estonian",1340021,0,1,3,11,2,78233,0,0
+184,"Eswatini","Eswatini","ESW","Swazi",1185000,0,0,1,19,1,49190,0,0
+65,"Ethiopia","Ethiopia","ETH","Ethiopian",79221000,0,0,1,19,1,127,0,0
+242,"Falkland Islands","Falkland Islands","FLK","Falkland Islander",3140,0,0,6,20,1,60448,0,0
+67,"Faroe Islands","Faroe Islands","FRO","Faroese",49006,0,0,3,25,1,77777,0,0
+68,"Fiji","Fiji","FIJ","Fijian",1794451,0,1,5,30,2,77110,0,0
+69,"Finland","Finland","FIN","Finnish",5349068,0,2,3,11,10,31358,0,0
+70,"France","France","FRA","French",62793432,0,2,3,8,10,62877,0,0
+71,"French Guiana","French Guiana","GUF","French Guianese",196678,0,0,6,8,1,18057,0,0
+72,"Gabon","Gabon","GAB","Gabonese",1475000,0,0,1,19,1,45299,0,0
+193,"Gambia","Gambia","GAM","Gambian",1705000,0,0,1,19,1,1196,0,0
+73,"Georgia","Georgia","GEO","Georgian",4465000,0,1,3,29,2,78889,0,0
+74,"Germany","Germany","GER","German",81757600,0,3,3,7,50,8808,0,0
+75,"Ghana","Ghana","GHA","Ghanaian",23837000,0,1,1,19,2,2099,0,0
+234,"Gibraltar","Gibraltar","GBR","Gibraltarian",31000,0,0,3,20,1,28425,0,0
+76,"Greece","Greece","GRE","Greek",11306183,0,1,3,23,2,4659,0,0
+250,"Greenland","Greenland","GRL","Greenlander",57000,0,0,4,25,1,52988,0,0
+77,"Grenada","Grenada","GRN","Grenadan",104000,0,0,4,20,1,69052,0,0
+78,"Guadeloupe","Guadeloupe","GLP","Guadeloupian",405000,0,0,4,8,1,7485,0,0
+79,"Guam","Guam","GUM","Guamanian",178000,0,2,2,0,10,399,0,0
+80,"Guatemala","Guatemala","GUA","Guatemalan",14027000,0,3,4,1,50,26910,0,0
+245,"Guernsey","Guernsey","GSY","Channel Islander (Guernsey)",65573,0,0,3,20,1,69132,0,0
+81,"Guinea","Guinea","GUI","Guinean",10069000,0,0,1,19,1,14726,0,0
+82,"Guinea-Bissau","Guinea-Bissau","GNB","Bissau-Guinean",1611000,0,0,1,5,1,9786,0,0
+83,"Guyana","Guyana","GUY","Guyanese",762000,0,1,6,20,2,28193,0,0
+84,"Haiti","Haiti","HAI","Haitian",10033000,0,3,4,8,50,60350,0,0
+86,"Honduras","Honduras","HON","Honduran",7466000,0,3,4,1,50,78977,0,0
+237,"Hong Kong","Hong Kong","HKG","Hongkonger",7003700,0,2,2,4,10,35493,0,0
+88,"Hungary","Hungary","HUN","Hungarian",10013628,0,2,3,11,10,12217,0,0
+89,"Iceland","Iceland","ISL","Icelandic",317900,0,0,3,25,1,67002,0,0
+90,"India","India","IND","Indian",1192830000,0,2,2,27,10,92369,0,0
+91,"Indonesia","Indonesia","IDN","Indonesian",231369500,0,1,2,36,2,34866,0,0
+92,"Iran","Iran","IRN","Iranian",74196000,0,1,2,17,2,78983,0,0
+93,"Iraq","Iraq","IRQ","Iraqi",30747000,0,1,2,17,2,6093,0,0
+153,"Ireland","Ireland","IRL","Irish",4450878,0,1,3,18,2,19826,0,0
+247,"Isle of Man","Isle of Man","IOM","Manx",80085,0,0,3,20,1,21385,0,0
+94,"Israel","Israel","ISR","Israeli",7587000,0,2,2,40,10,35283,0,0
+95,"Italy","Italy","ITA","Italian",60200060,0,3,3,9,50,66219,0,0
+96,"Ivory Coast","Ivory Coast","CIV","Ivorian",21075000,0,1,1,19,2,1965,0,0
+97,"Jamaica","Jamaica","JAM","Jamaican",2719000,0,3,4,20,50,38612,0,0
+98,"Japan","Japan","JPN","Japanese",127380000,0,5,2,2,1250,77661,0,0
+246,"Jersey","Jersey","JSY","Channel Islander (Jersey)",92500,0,0,3,20,1,69058,0,0
+99,"Jordan","Jordan","JOR","Jordanian",6316000,0,0,2,17,1,5232,0,0
+100,"Kazakhstan","Kazakhstan","KAZ","Kazakh",15776492,0,1,3,13,2,4552,0,0
+101,"Kenya","Kenya","KEN","Kenyan",39802000,0,1,1,19,2,53928,0,0
+217,"Kiribati","Kiribati","KIR","I-Kiribati",99350,0,0,5,30,1,6277,0,0
+230,"Kosovo","Kosovo","KSV","Kosovar",2100000,0,0,3,21,1,60933,0,0
+102,"Kuwait","Kuwait","KUW","Kuwaiti",2985000,0,1,2,17,2,34885,0,0
+103,"Kyrgyzstan","Kyrgyzstan","KGZ","Kyrgyz",5482000,0,0,2,13,1,9282,0,0
+104,"Laos","Laos","LAO","Lao",6320000,0,0,2,38,1,85109,0,0
+105,"Latvia","Latvia","LVA","Latvian",2248961,0,1,3,13,2,64543,0,0
+106,"Lebanon","Lebanon","LIB","Lebanese",4224000,0,1,2,17,2,7798,0,0
+107,"Lesotho","Lesotho","LES","Mosotho",2067000,0,1,1,19,2,48684,0,0
+108,"Liberia","Liberia","LBR","Liberian",3476608,0,1,1,19,2,51288,0,0
+109,"Libya","Libya","LBY","Libyan",6420000,0,0,1,17,1,81163,0,0
+110,"Liechtenstein","Liechtenstein","LIE","Liechtensteiner",35981,0,0,3,7,1,83755,0,0
+111,"Lithuania","Lithuania","LTU","Lithuanian",3329227,0,2,3,13,10,83144,0,0
+112,"Luxembourg","Luxembourg","LUX","Luxembourger",502207,0,1,3,7,2,41194,0,0
+238,"Macau","Macau","MCU","Macanese",541200,0,0,2,4,1,3496,0,0
+66,"North Macedonia","Macedonia","MKD","Macedonian",2114550,0,0,3,22,1,74533,0,0
+114,"Madagascar","Madagascar","MAD","Malagasy",20653556,0,0,1,19,1,3225,0,0
+241,"Madeira","Madeira","MDR","Madeiran",247399,0,0,3,5,1,24556,0,0
+115,"Malawi","Malawi","MWI","Malawian",15263000,0,0,1,19,1,45439,0,0
+116,"Malaysia","Malaysia","MAS","Malaysian",28306700,0,1,2,36,2,40245,0,0
+117,"Maldives","Maldives","MDV","Maldivian",309000,0,0,2,17,1,47110,0,0
+118,"Mali","Mali","MLI","Malian",14517176,0,1,1,17,2,6680,0,0
+119,"Malta","Malta","MLT","Maltese",416333,0,1,3,20,2,83998,0,0
+220,"Marshall Islands","Marshall Islands","MIS","Marshallean",62000,0,1,5,30,2,66699,0,0
+120,"Martinique","Martinique","MTQ","Martiniquais",621249,0,0,4,8,1,25248,0,0
+121,"Mauritania","Mauritania","MTN","Mauritanian",3291000,0,0,1,17,1,56372,0,0
+122,"Mauritius","Mauritius","MRI","Mauritian",1288000,0,0,1,8,1,60417,0,0
+123,"Mayotte","Mayotte","MAY","Mahorais",186479,0,0,1,8,1,47450,0,0
+124,"Mexico","Mexico","MEX","Mexican",107550697,0,5,4,1,1250,49935,0,0
+222,"Micronesia","Micronesia","MIC","Micronesian",111000,0,1,5,30,2,62275,0,0
+125,"Moldova","Moldova","MDA","Moldovan",3567500,0,1,3,35,2,13170,0,0
+223,"Monaco","Monaco","MSR","Monégasque",33000,0,0,3,8,1,51419,0,0
+126,"Mongolia","Mongolia","MGL","Mongolian",2671000,0,1,2,4,2,82140,0,0
+227,"Montenegro","Montenegro","MON","Montenegrin",630548,0,0,3,22,1,59825,0,0
+235,"Montserrat","Montserrat","MST","Montserratian",5900,0,0,4,20,1,89939,0,0
+128,"Morocco","Morocco","MAR","Moroccan",32034572,0,1,1,17,2,64654,0,0
+129,"Mozambique","Mozambique","MOZ","Mozambican",22894000,0,0,1,19,1,47951,0,0
+130,"Myanmar","Myanmar","MYA","Burman",50020000,0,1,2,38,2,89998,0,0
+131,"Namibia","Namibia","NAM","Namibian",2171000,0,1,1,19,2,86924,0,0
+226,"Nauru","Nauru","NAU","Nauruan",10000,0,0,5,30,1,88467,0,0
+132,"Nepal","Nepal","NEP","Nepali",29331000,0,0,2,27,1,37393,0,0
+85,"The Netherlands","Netherlands","NED","Dutch",16640000,0,4,3,6,250,2783,0,0
+133,"Netherlands Antilles","Netherlands Antilles","ANT","Dutch Antillean",19106,0,1,4,1,2,39891,0,0
+134,"New Caledonia","New Caledonia","NCL","New Caledonian",244410,0,0,5,8,1,56375,0,0
+135,"New Zealand","New Zealand","NZL","New Zealander",4315800,0,3,5,28,50,86078,0,0
+136,"Nicaragua","Nicaragua","NCA","Nicaraguan",5743000,0,4,4,1,250,47484,0,0
+137,"Niger","Niger","NIG","Nigerien",15290000,0,0,1,19,1,55420,0,0
+138,"Nigeria","Nigeria","NGA","Nigerian",154729000,0,1,1,19,2,2050,0,0
+251,"Niue","Niue","NIU","Niuean",1400,0,0,5,30,1,89941,0,0
+139,"North Korea","North Korea","PRK","North Korean",24051706,0,2,2,3,10,61662,0,0
+140,"Northern Ireland","Northern Ireland","NIR","Northern Irish",1685267,0,1,3,18,2,8253,0,0
+229,"Northern Marianas","Northern Marianas","NMI","Northern Marianan",86616,0,2,5,0,10,36353,0,0
+141,"Norway","Norway","NOR","Norwegian",4907175,0,1,3,10,2,57818,0,0
+142,"Oman","Oman","OMA","Omani",2845000,0,0,2,17,1,4317,0,0
+143,"Pakistan","Pakistan","PAK","Pakistani",171590000,0,1,2,37,2,33632,0,0
+219,"Palau","Palau","PAU","Palauan",20000,0,2,5,30,10,92370,0,0
+144,"Palestine","Palestine","PAL","Palestinian",4013126,0,0,2,17,1,26476,0,0
+145,"Panama","Panama","PAN","Panamanian",3454000,0,4,4,1,250,62478,0,0
+146,"Papua New Guinea","Papua New Guinea","PNG","Papuan",6732000,0,1,5,36,2,60424,0,0
+147,"Paraguay","Paraguay","PAR","Paraguayan",6349000,0,1,6,1,2,4587,0,0
+148,"Peru","Peru","PER","Peruvian",29461933,0,2,6,1,10,45449,0,0
+194,"Philippines","Philippines","PHI","Filipino",92226600,0,3,2,34,50,47715,0,0
+149,"Poland","Poland","POL","Polish",38163895,0,1,3,15,2,87793,0,0
+150,"Portugal","Portugal","POR","Portuguese",10154115,0,1,3,5,2,45751,0,0
+151,"Puerto Rico","Puerto Rico","PUR","Puerto Rican",3982000,0,5,4,1,1250,70279,0,0
+152,"Qatar","Qatar","QAT","Qatari",1409000,0,1,2,17,2,21010,0,0
+239,"Rapa Nui","Rapa Nui","RPN","Easter Islander",4888,0,0,5,30,1,89938,0,0
+155,"Romania","Romania","ROM","Romanian",21466174,0,1,3,35,2,12152,0,0
+156,"Russia","Russia","RUS","Russian",141927297,0,2,3,13,10,51979,0,0
+157,"Rwanda","Rwanda","RWA","Rwandan",9998000,0,0,1,19,1,38381,0,0
+154,"Réunion","Réunion","REU","Réunionnais",785139,0,0,1,8,1,68151,0,0
+243,"Saint-Barthélemy","Saint-Barthélemy","STB","Saint-Barthais",8450,0,0,4,8,1,68036,0,0
+244,"Saint-Martin","Saint-Martin","STM","Saint-Martinnais",35263,0,0,4,8,1,48254,0,0
+160,"Saint-Pierre & Miquelon","Saint-Pierre & Miquelon","SPM","Saint-Pierrais",7341,0,0,4,8,1,68786,0,0
+161,"Samoa","Samoa","SAM","Samoan",184984,0,1,5,30,2,3556,0,0
+162,"San Marino","San Marino","SMR","Sammarinese",30800,0,1,3,9,2,70371,0,0
+163,"Saudi Arabia","Saudi Arabia","KSA","Saudi",28146658,0,1,2,17,2,66605,0,0
+164,"Scotland","Scotland","SCO","Scottish",5062011,0,1,3,16,2,22779,0,0
+165,"Senegal","Senegal","SEN","Senegalais",12534000,0,0,1,19,1,21715,0,0
+166,"Serbia","Serbia","SER","Serbian",7800000,0,0,3,22,1,8266,0,0
+167,"Seychelles","Seychelles","SEY","Seychellois",84000,0,0,1,8,1,85328,0,0
+168,"Sierra Leone","Sierra Leone","SLE","Sierra Leonean",5696000,0,0,1,19,1,24844,0,0
+169,"Singapore","Singapore","SIN","Singaporean",5076700,0,1,2,4,2,74222,0,0
+232,"Sint Maarten","Sint Maarten","SIM","Sint Maartener",37429,0,3,4,1,50,61012,0,0
+171,"Slovakia","Slovakia","SVK","Slovak",5424057,0,1,3,14,2,11426,0,0
+172,"Slovenia","Slovenia","SVN","Slovene",2069504,0,1,3,22,2,40792,0,0
+174,"Solomon Islands","Solomon Islands","SOL","Solomon Islander",523000,0,0,5,30,1,32448,0,0
+175,"Somalia","Somalia","SOM","Somalian",9133000,0,0,1,17,1,50967,0,0
+176,"South Africa","South Africa","RSA","South African",49320500,0,3,1,20,50,17246,0,0
+177,"South Korea","South Korea","KOR","South Korean",50419308,0,4,2,3,250,67203,0,0
+233,"South Sudan","South Sudan","SSU","South Sudanese",8260490,0,0,1,19,1,34665,0,0
+178,"Spain","Spain","ESP","Spanish",43988577,0,2,3,1,10,46575,0,0
+179,"Sri Lanka","Sri Lanka","SRI","Sri Lankan",20238000,0,1,2,27,2,14512,0,0
+249,"St. Helena","St. Helena","STH","St. Helenian",4918,0,0,1,20,1,89940,0,0
+180,"St. Kitts & Nevis","St. Kitts & Nevis","SKN","Kittitian",52000,0,0,4,20,1,7492,0,0
+158,"St. Lucia","St. Lucia","LCA","St. Lucian",172000,0,0,4,20,1,17883,0,0
+181,"St. Vincent & The Grenadines","St. Vincent & The Grenadines","VIN","Vincentian",109000,0,0,4,20,1,38615,0,0
+182,"Sudan","Sudan","SUD","Sudanese",30894000,0,0,1,17,1,38130,0,0
+183,"Suriname","Suriname","SUR","Surinamer",520000,0,2,6,6,10,62784,0,0
+185,"Sweden","Sweden","SWE","Swedish",9366092,0,1,3,12,2,76292,0,0
+186,"Switzerland","Switzerland","SUI","Swiss",7761800,0,1,3,7,2,8823,0,0
+187,"Syria","Syria","SYR","Syrian",21906000,0,0,2,17,1,21834,0,0
+173,"São Tomé & Principe","São Tomé & Principe","STP","Santomean",206178,0,0,1,5,1,67496,0,0
+188,"Tahiti & French Polynesia","Tahiti & French Polynesia","TAH","Tahitian",256603,0,0,5,30,1,26148,0,0
+43,"Taiwan","Taiwan","TPE","Taiwanese",23069345,0,4,2,4,250,78044,0,0
+189,"Tajikistan","Tajikistan","TJK","Tajik",6952000,0,0,2,26,1,19480,0,0
+190,"Tanzania","Tanzania","TAN","Tanzanian",43739000,0,0,1,19,1,21989,0,0
+191,"Thailand","Thailand","THA","Thai",64232760,0,1,2,38,2,6887,0,0
+195,"Togo","Togo","TOG","Togolese",6619000,0,1,1,19,2,41073,0,0
+252,"Tokelau","Tokelau","TOK","Tokelauan",1400,0,0,5,30,1,89942,0,0
+196,"Tonga","Tonga","TGA","Tongan",104000,0,0,5,30,1,53033,0,0
+197,"Trinidad & Tobago","Trinidad & Tobago","TRI","Trinidadian",1339000,0,1,4,20,2,60428,0,0
+198,"Tunisia","Tunisia","TUN","Tunisian",10327800,0,1,1,17,2,81629,0,0
+199,"Turkey","Turkey","TUR","Turkish",72561312,0,1,3,24,2,3103,0,0
+200,"Turkmenistan","Turkmenistan","TKM","Turkmen",5110000,0,0,2,13,1,286,0,0
+236,"Turks & Caicos","Turks & Caicos","TCI","Turks & Caicos Islander",33000,0,0,4,20,1,14279,0,0
+221,"Tuvalu","Tuvalu","TUV","Tuvalean",10441,0,1,5,30,2,83787,0,0
+203,"Uganda","Uganda","UGA","Ugandan",32710000,0,1,1,19,2,36759,0,0
+204,"Ukraine","Ukraine","UKR","Ukrainian",46936000,0,1,3,13,2,38376,0,0
+205,"United Arab Emirates","United Arab Emirates","UAE","Emirati",9400000,0,1,2,17,2,19835,0,0
+206,"The United States","United States","USA","American",311900000,0,5,4,0,1250,87845,1,1
+207,"Uruguay","Uruguay","URU","Uruguayan",3463197,0,1,6,1,2,51516,0,0
+208,"Uzbekistan","Uzbekistan","UZB","Uzbek",27488000,0,1,2,13,2,78705,0,0
+209,"Vanuatu","Vanuatu","VAN","Ni-Vanuatu",240000,0,0,5,36,1,82957,0,0
+225,"Vatican City","Vatican City","VCY","Vatican",836,0,0,3,9,1,89999,0,0
+210,"Venezuela","Venezuela","VEN","Venezuelan",29075954,0,5,6,1,1250,17321,0,0
+211,"Vietnam","Vietnam","VIE","Vietnamese",85789573,0,1,2,38,2,30005,0,0
+202,"Virgin Islands","Virgin Islands","VIR","Virgin Islander",110000,0,3,4,20,50,18946,0,0
+212,"Wales","Wales","WAL","Welsh",2903085,0,1,3,20,2,17392,0,0
+213,"Wallis & Futuna","Wallis & Futuna","WFI","Wallisian",15480,0,0,5,30,1,48797,0,0
+218,"Western Sahara","Western Sahara","WSH","Sahrawi",686265,0,0,1,17,1,964,0,0
+214,"Yemen","Yemen","YEM","Yemeni",23580000,0,0,2,17,1,70798,0,0
+215,"Zambia","Zambia","ZAM","Zambian",12935000,0,1,1,19,2,41244,0,0
+216,"Zimbabwe","Zimbabwe","ZIM","Zimbabwean",13009530,0,1,1,19,2,30642,0,0
+248,"Åland","Åland","ALD","Ålander",27700,0,0,3,12,1,46232,0,0

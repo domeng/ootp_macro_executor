@@ -1,0 +1,97 @@
+team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_id,best_pitcher_id,best_rookie_id,manager_id,made_playoffs,won_playoffs,fired,position_in_division
+1,2023,200,0,0,"Indianapolis","IND","River Hawks",157,143,1602,28,1,0,0,1
+2,2023,200,0,0,"Brooklyn","BRO","Jesters",24,1351,757,1,0,0,0,4
+3,2023,200,0,1,"Houston","HOU","Red Wings",259,236,0,46,1,0,0,2
+4,2023,200,0,1,"San Francisco","SF","Black Cats",359,990,1690,64,1,0,0,1
+5,2023,200,0,0,"Charlotte","CHA","Governors",73,49,0,10,1,0,0,2
+6,2023,200,0,1,"Milwaukee","MIL","Scarecrows",211,199,219,37,0,0,0,3
+7,2023,200,0,0,"Columbus","COL","Rockies",851,833,0,19,0,0,0,3
+8,2023,200,0,1,"Phoenix","PHO","Gold Rush",298,1432,1452,55,0,0,0,4
+9,2023,200,1,1,"Austin","AUS","Sparks",627,1306,1306,118,0,0,0,4
+10,2023,200,1,0,"Philadelphia","PHI","Seagulls",488,471,877,89,0,0,0,4
+11,2023,200,1,0,"Boston","BOS","Gulls",392,380,408,145,1,0,0,1
+12,2023,200,1,0,"Jacksonville","JAC","Hammerheads",543,780,0,100,1,0,0,2
+13,2023,200,1,1,"Memphis","MEM","Dust Devils",588,569,1820,109,1,0,0,2
+14,2023,200,1,1,"Los Angeles","LA","Parrots",721,716,3118,136,1,1,0,1
+15,2023,200,1,0,"New York","NY","Commodores",455,424,1817,156,0,0,0,3
+16,2023,200,1,1,"El Paso","EP","Whitecaps",682,1180,954,127,0,0,0,3
+17,2023,201,0,1,"Willows","WIL","Victory",959,698,0,216,0,0,0,4
+18,2023,201,0,1,"Huntington Beach","HB","Destroyers",925,373,0,213,1,0,0,1
+19,2023,201,0,0,"Nashville","NAS","Danes",535,1929,0,198,1,0,0,1
+20,2023,201,0,0,"Cincinnati","CIN","Diplomats",1783,370,0,195,0,0,0,2
+21,2023,201,0,0,"St. Louis","SL","Jaspers",818,652,0,201,0,0,0,3
+22,2023,201,0,0,"Alta","ALT","Mavericks",847,139,0,204,0,0,0,4
+23,2023,201,0,1,"Val Verde Park","VV","Mustangs",75,57,0,210,1,1,0,2
+24,2023,201,0,1,"Santa Anna","SA","Speedsters",880,421,0,207,1,0,0,3
+25,2023,201,1,1,"Garland","GAR","Rockies",729,749,0,231,1,0,0,2
+26,2023,201,1,0,"Toledo","TOL","Bishops",314,1978,0,228,0,0,0,4
+27,2023,201,1,1,"Irving","IRV","Dawgs",174,154,0,234,1,0,0,3
+28,2023,201,1,1,"Paradise","PAR","Flying Monkeys",214,194,0,237,1,0,0,1
+29,2023,201,1,0,"Washington","WAS","Cannons",451,435,0,225,1,0,0,1
+30,2023,201,1,0,"Virginia Beach","VB","Eagles",1012,2116,0,222,0,0,0,3
+31,2023,201,1,1,"Seattle","SEA","Cheetahs",596,1333,0,240,0,0,0,4
+32,2023,201,1,0,"Whately","WHA","Blue Chips",1503,972,0,219,0,0,0,2
+33,2023,202,0,1,"Colorado Springs","CS","Wheat Kings",1317,622,0,288,1,0,0,2
+34,2023,202,0,1,"Wichita","WIC","Blackhawks",1605,181,0,285,0,0,0,4
+35,2023,202,0,0,"Tunica","TUN","Polar Bears",2128,2105,0,279,1,0,0,2
+36,2023,202,0,0,"Minneapolis","MIN","Swallows",1270,742,0,282,0,0,0,4
+37,2023,202,0,0,"Mobile","MOB","River Bats",802,2339,0,276,1,0,0,1
+38,2023,202,0,1,"Portland","POR","Colts",1376,38,0,294,0,0,0,3
+39,2023,202,0,1,"Oxnard","OXN","Hounds",1166,608,0,291,1,0,0,1
+40,2023,202,0,0,"Lexington","LEX","Whitehawks",1740,2142,0,273,0,0,0,3
+41,2023,202,1,1,"Weston","WES","Axemen",2206,2768,0,309,1,0,0,2
+42,2023,202,1,0,"Chesapeake","CHE","Typhoon",1399,1381,0,297,1,0,0,2
+43,2023,202,1,1,"Boise","BOI","Wranglers",1532,1507,0,312,1,1,0,1
+44,2023,202,1,0,"St. Augustine Shores","SA","Skeeters",1450,1431,0,303,0,0,0,4
+45,2023,202,1,1,"Riverside","RIV","Samurai",846,2320,0,318,0,0,0,3
+46,2023,202,1,0,"Madison","MAD","Vulcans",2227,2219,0,306,1,0,0,1
+47,2023,202,1,1,"Liberty Lake","LL","Heroes",1557,422,0,315,0,0,0,4
+48,2023,202,1,0,"Rochester","ROC","Gold Rush",1132,2367,0,300,0,0,0,3
+49,2023,203,0,0,"Arlington","ARL","Blizzard",2545,3182,0,354,1,0,0,2
+50,2023,203,0,0,"Grand Rapids","GR","Diplomats",1526,1642,0,357,1,0,0,1
+51,2023,203,0,1,"Scottsdale","SCO","Cottonmouths",1375,1358,0,372,0,0,0,3
+52,2023,203,0,0,"North Hempstead","NH","Hurricanes",1610,1591,0,351,0,0,0,4
+53,2023,203,0,0,"Montgomery","MON","Bees",2122,2803,0,360,0,0,0,3
+54,2023,203,0,1,"Kansas City","KC","Ducks",1738,1174,0,366,1,0,0,1
+55,2023,203,0,1,"Chandler","CHA","Tritons",1761,813,0,369,1,1,0,2
+56,2023,203,0,1,"Des Moines","DM","Lords",2207,2771,0,363,0,0,0,4
+57,2023,203,1,1,"Weston","WES","Airhogs",1922,2878,0,387,1,0,0,3
+58,2023,203,1,0,"Winston-Salem","WIN","Rattlers",1857,1253,0,381,0,0,0,2
+59,2023,203,1,1,"Chula Vista","CV","Sidewinders",1213,1931,0,390,1,0,0,2
+60,2023,203,1,1,"Anaheim","ANA","Hillcats",1972,2764,0,393,1,0,0,1
+61,2023,203,1,0,"Port Clinton","PC","Bombardiers",2260,1875,0,384,0,0,0,3
+62,2023,203,1,0,"Essex","ESS","Wild",1400,2056,0,375,1,0,0,1
+63,2023,203,1,1,"Modesto","MOD","Scarecrows",1991,1440,0,396,0,0,0,4
+64,2023,203,1,0,"Newport News","NN","Terrapins",1833,1328,0,378,0,0,0,4
+65,2023,204,0,0,"Scranton","SCR","Orange Sox",3242,2864,0,435,0,0,0,4
+66,2023,204,0,0,"Yonkers","YON","Iron Horses",3041,2003,0,429,1,1,0,1
+67,2023,204,0,0,"Jersey City","JC","Wheat Kings",1266,2561,0,432,1,0,0,2
+68,2023,204,0,0,"Middletown","MID","Legion",3187,2090,0,438,0,0,0,3
+69,2023,204,0,1,"Greensboro","GRE","Jackrabbits",3069,3113,0,444,1,0,0,2
+70,2023,204,0,1,"Buffalo","BUF","Whalers",2996,3173,0,441,0,0,0,3
+71,2023,204,0,1,"Birmingham","BIR","Stags",1609,2401,0,447,0,0,0,4
+72,2023,204,0,1,"Hobart Bay","HB","Maulers",3249,2188,0,450,1,0,0,1
+73,2023,204,1,1,"Granite Falls","GF","Lumber Kings",3048,2600,0,474,0,0,0,4
+74,2023,204,1,0,"Atlanta","ATL","Loggerheads",634,3304,0,459,1,0,0,2
+75,2023,204,1,1,"Glendale","GLE","Chippers",3248,2879,0,471,1,0,0,1
+76,2023,204,1,1,"Laurel Hill","LH","Blue Knights",1583,1611,0,465,1,0,0,2
+77,2023,204,1,0,"Richmond","RIC","River Bats",1970,2736,0,453,1,0,0,1
+78,2023,204,1,0,"Cleveland","CLE","Alleycats",3229,381,0,456,0,0,0,4
+79,2023,204,1,0,"Fort Wayne","FW","Blue Falcons",3197,2291,0,462,0,0,0,3
+80,2023,204,1,1,"Frankfort","FRA","Clippers",1943,1932,0,468,0,0,0,3
+81,2023,205,0,0,"Clute","CLU","Foresters",3054,3257,0,516,1,0,0,2
+82,2023,205,0,0,"Sleepy Hollow","SH","Sun Sox",2441,2419,0,507,1,0,0,1
+83,2023,205,0,0,"Cape May Court House","CM","Stone Crabs",3200,2456,0,510,0,0,0,4
+84,2023,205,0,1,"Poolville","POO","Gladiators",2414,2991,0,522,1,0,0,1
+85,2023,205,0,1,"Denver","DEN","Peacocks",2285,2990,0,525,0,0,0,2
+86,2023,205,0,1,"Plano","PLA","A's",2576,3019,0,519,0,0,0,4
+87,2023,205,0,0,"Pittsburgh","PIT","Crawdads",3302,2988,0,513,1,0,0,3
+88,2023,205,0,1,"Spokane","SPO","Reds",1556,2241,0,528,0,0,0,3
+89,2023,205,1,1,"Albuquerque","ALB","Snappers",2905,2983,0,546,1,0,0,1
+90,2023,205,1,1,"Tacoma","TAC","Patriots",2960,3285,0,552,0,0,0,4
+91,2023,205,1,0,"Fort Kent","FK","Mud Hens",1682,2349,0,537,0,0,0,3
+92,2023,205,1,0,"Basye-Bryce Mountain","BM","Running Rebels",2752,3208,0,534,0,0,0,4
+93,2023,205,1,0,"Miami","MIA","Tourists",2126,2620,0,540,1,0,0,2
+94,2023,205,1,1,"Lely Resort","LR","Lions",3043,2594,0,543,0,0,0,3
+95,2023,205,1,1,"Sacramento","SAC","Werewolves",3149,1334,0,549,1,0,0,2
+96,2023,205,1,0,"Midway (Liberty County)","M(","Brigadiers",1736,3237,0,531,1,1,0,1

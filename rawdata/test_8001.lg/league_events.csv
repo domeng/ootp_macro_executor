@@ -1,0 +1,262 @@
+league_id,start_date,type,event_over,deleted,name,needs_human_action,real_sim_date
+200,"2023-10-29",16,0,0,"Offseason starts",0,0
+200,"2023-4-3",12,0,0,"OPENING DAY",0,0
+200,"2023-4-10",104,0,0,"Player of the Week Award Announcement, Week no. 15",0,0
+200,"2023-4-17",104,0,0,"Player of the Week Award Announcement, Week no. 16",0,0
+200,"2023-4-24",104,0,0,"Player of the Week Award Announcement, Week no. 17",0,0
+200,"2023-5-1",104,0,0,"Player of the Week Award Announcement, Week no. 18",0,0
+200,"2023-5-1",101,0,0,"Batter of the Month Award Announcement",0,0
+200,"2023-5-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+200,"2023-5-1",103,0,0,"Rookie of the Month Award Announcement",0,0
+200,"2023-5-8",104,0,0,"Player of the Week Award Announcement, Week no. 19",0,0
+200,"2023-5-15",104,0,0,"Player of the Week Award Announcement, Week no. 20",0,0
+200,"2023-5-22",104,0,0,"Player of the Week Award Announcement, Week no. 21",0,0
+200,"2023-5-29",104,0,0,"Player of the Week Award Announcement, Week no. 22",0,0
+200,"2023-6-1",101,0,0,"Batter of the Month Award Announcement",0,0
+200,"2023-6-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+200,"2023-6-1",103,0,0,"Rookie of the Month Award Announcement",0,0
+200,"2023-6-5",104,0,0,"Player of the Week Award Announcement, Week no. 23",0,0
+200,"2023-6-12",104,0,0,"Player of the Week Award Announcement, Week no. 24",0,0
+200,"2023-6-19",104,0,0,"Player of the Week Award Announcement, Week no. 25",0,0
+200,"2023-6-26",104,0,0,"Player of the Week Award Announcement, Week no. 26",0,0
+200,"2023-7-1",101,0,0,"Batter of the Month Award Announcement",0,0
+200,"2023-7-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+200,"2023-7-1",103,0,0,"Rookie of the Month Award Announcement",0,0
+200,"2023-7-3",104,0,0,"Player of the Week Award Announcement, Week no. 27",0,0
+200,"2023-7-10",104,0,0,"Player of the Week Award Announcement, Week no. 28",0,0
+200,"2023-7-17",104,0,0,"Player of the Week Award Announcement, Week no. 29",0,0
+200,"2023-7-24",104,0,0,"Player of the Week Award Announcement, Week no. 30",0,0
+200,"2023-7-31",104,0,0,"Player of the Week Award Announcement, Week no. 31",0,0
+200,"2023-8-1",101,0,0,"Batter of the Month Award Announcement",0,0
+200,"2023-8-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+200,"2023-8-1",103,0,0,"Rookie of the Month Award Announcement",0,0
+200,"2023-8-7",104,0,0,"Player of the Week Award Announcement, Week no. 32",0,0
+200,"2023-8-14",104,0,0,"Player of the Week Award Announcement, Week no. 33",0,0
+200,"2023-8-21",104,0,0,"Player of the Week Award Announcement, Week no. 34",0,0
+200,"2023-8-28",104,0,0,"Player of the Week Award Announcement, Week no. 35",0,0
+200,"2023-9-1",101,0,0,"Batter of the Month Award Announcement",0,0
+200,"2023-9-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+200,"2023-9-1",103,0,0,"Rookie of the Month Award Announcement",0,0
+200,"2023-9-4",104,0,0,"Player of the Week Award Announcement, Week no. 36",0,0
+200,"2023-9-11",104,0,0,"Player of the Week Award Announcement, Week no. 37",0,0
+200,"2023-9-18",104,0,0,"Player of the Week Award Announcement, Week no. 38",0,0
+200,"2023-9-25",104,0,0,"Player of the Week Award Announcement, Week no. 39",0,0
+200,"2023-10-1",101,0,0,"Batter of the Month Award Announcement",0,0
+200,"2023-10-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+200,"2023-10-1",103,0,0,"Rookie of the Month Award Announcement",0,0
+200,"2023-9-1",9,0,0,"Roster Expansion",0,0
+200,"2023-6-5",2,1,0,"First-Year Player Draft",1,0
+200,"2023-3-7",3,0,0,"Draft Pool Announcement",0,0
+200,"2024-1-15",27,0,0,"International FA Signing Begins",0,0
+200,"2023-10-17",42,1,0,"International FA Showcase",0,0
+200,"2023-7-31",5,1,0,"Trading Deadline",1,0
+200,"2023-10-1",13,0,0,"Regular Season Ends",0,0
+200,"2023-11-6",25,0,0,"Great Glove Award announced",0,0
+200,"2023-11-7",32,0,0,"Reliever of the Year Award announced",0,0
+200,"2023-11-8",31,0,0,"Platinum Stick Award announced",0,0
+200,"2023-11-9",24,0,0,"Rookie of the Year Award announced",0,0
+200,"2023-7-10",38,1,0,"2023 All-Star HR Challenge",0,0
+200,"2023-10-2",15,0,0,"2023 PLAYOFFS BEGIN",0,0
+201,"2023-4-11",12,0,0,"OPENING DAY",0,0
+201,"2023-4-17",104,0,0,"Player of the Week Award Announcement, Week no. 16",0,0
+201,"2023-4-24",104,0,0,"Player of the Week Award Announcement, Week no. 17",0,0
+201,"2023-5-1",104,0,0,"Player of the Week Award Announcement, Week no. 18",0,0
+201,"2023-5-1",101,0,0,"Batter of the Month Award Announcement",0,0
+201,"2023-5-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+201,"2023-5-8",104,0,0,"Player of the Week Award Announcement, Week no. 19",0,0
+201,"2023-5-15",104,0,0,"Player of the Week Award Announcement, Week no. 20",0,0
+201,"2023-5-22",104,0,0,"Player of the Week Award Announcement, Week no. 21",0,0
+201,"2023-5-29",104,0,0,"Player of the Week Award Announcement, Week no. 22",0,0
+201,"2023-6-1",101,0,0,"Batter of the Month Award Announcement",0,0
+201,"2023-6-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+201,"2023-6-5",104,0,0,"Player of the Week Award Announcement, Week no. 23",0,0
+201,"2023-6-12",104,0,0,"Player of the Week Award Announcement, Week no. 24",0,0
+201,"2023-6-19",104,0,0,"Player of the Week Award Announcement, Week no. 25",0,0
+201,"2023-6-26",104,0,0,"Player of the Week Award Announcement, Week no. 26",0,0
+201,"2023-7-1",101,0,0,"Batter of the Month Award Announcement",0,0
+201,"2023-7-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+201,"2023-7-3",104,0,0,"Player of the Week Award Announcement, Week no. 27",0,0
+201,"2023-7-10",104,0,0,"Player of the Week Award Announcement, Week no. 28",0,0
+201,"2023-7-17",104,0,0,"Player of the Week Award Announcement, Week no. 29",0,0
+201,"2023-7-24",104,0,0,"Player of the Week Award Announcement, Week no. 30",0,0
+201,"2023-7-31",104,0,0,"Player of the Week Award Announcement, Week no. 31",0,0
+201,"2023-8-1",101,0,0,"Batter of the Month Award Announcement",0,0
+201,"2023-8-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+201,"2023-8-7",104,0,0,"Player of the Week Award Announcement, Week no. 32",0,0
+201,"2023-8-14",104,0,0,"Player of the Week Award Announcement, Week no. 33",0,0
+201,"2023-8-21",104,0,0,"Player of the Week Award Announcement, Week no. 34",0,0
+201,"2023-8-28",104,0,0,"Player of the Week Award Announcement, Week no. 35",0,0
+201,"2023-9-1",101,0,0,"Batter of the Month Award Announcement",0,0
+201,"2023-9-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+201,"2023-9-4",104,0,0,"Player of the Week Award Announcement, Week no. 36",0,0
+201,"2023-9-11",104,0,0,"Player of the Week Award Announcement, Week no. 37",0,0
+201,"2023-9-15",13,0,0,"Regular Season Ends",0,0
+201,"2023-10-12",16,0,0,"Offseason starts",0,0
+201,"2023-10-20",25,0,0,"Great Glove Award announced",0,0
+201,"2023-10-21",32,0,0,"Reliever of the Year Award announced",0,0
+201,"2023-7-10",38,1,0,"2023 All-Star HR Challenge",0,0
+201,"2023-9-16",15,0,0,"2023 PLAYOFFS BEGIN",0,0
+202,"2023-4-6",12,0,0,"OPENING DAY",0,0
+202,"2023-4-17",104,0,0,"Player of the Week Award Announcement, Week no. 16",0,0
+202,"2023-4-24",104,0,0,"Player of the Week Award Announcement, Week no. 17",0,0
+202,"2023-5-1",104,0,0,"Player of the Week Award Announcement, Week no. 18",0,0
+202,"2023-5-1",101,0,0,"Batter of the Month Award Announcement",0,0
+202,"2023-5-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+202,"2023-5-8",104,0,0,"Player of the Week Award Announcement, Week no. 19",0,0
+202,"2023-5-15",104,0,0,"Player of the Week Award Announcement, Week no. 20",0,0
+202,"2023-5-22",104,0,0,"Player of the Week Award Announcement, Week no. 21",0,0
+202,"2023-5-29",104,0,0,"Player of the Week Award Announcement, Week no. 22",0,0
+202,"2023-6-1",101,0,0,"Batter of the Month Award Announcement",0,0
+202,"2023-6-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+202,"2023-6-5",104,0,0,"Player of the Week Award Announcement, Week no. 23",0,0
+202,"2023-6-12",104,0,0,"Player of the Week Award Announcement, Week no. 24",0,0
+202,"2023-6-19",104,0,0,"Player of the Week Award Announcement, Week no. 25",0,0
+202,"2023-6-26",104,0,0,"Player of the Week Award Announcement, Week no. 26",0,0
+202,"2023-7-1",101,0,0,"Batter of the Month Award Announcement",0,0
+202,"2023-7-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+202,"2023-7-3",104,0,0,"Player of the Week Award Announcement, Week no. 27",0,0
+202,"2023-7-10",104,0,0,"Player of the Week Award Announcement, Week no. 28",0,0
+202,"2023-7-17",104,0,0,"Player of the Week Award Announcement, Week no. 29",0,0
+202,"2023-7-24",104,0,0,"Player of the Week Award Announcement, Week no. 30",0,0
+202,"2023-7-31",104,0,0,"Player of the Week Award Announcement, Week no. 31",0,0
+202,"2023-8-1",101,0,0,"Batter of the Month Award Announcement",0,0
+202,"2023-8-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+202,"2023-8-7",104,0,0,"Player of the Week Award Announcement, Week no. 32",0,0
+202,"2023-8-14",104,0,0,"Player of the Week Award Announcement, Week no. 33",0,0
+202,"2023-8-21",104,0,0,"Player of the Week Award Announcement, Week no. 34",0,0
+202,"2023-8-28",104,0,0,"Player of the Week Award Announcement, Week no. 35",0,0
+202,"2023-9-1",101,0,0,"Batter of the Month Award Announcement",0,0
+202,"2023-9-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+202,"2023-9-4",104,0,0,"Player of the Week Award Announcement, Week no. 36",0,0
+202,"2023-9-4",13,0,0,"Regular Season Ends",0,0
+202,"2023-10-3",16,0,0,"Offseason starts",0,0
+202,"2023-10-11",25,0,0,"Great Glove Award announced",0,0
+202,"2023-10-12",32,0,0,"Reliever of the Year Award announced",0,0
+202,"2023-6-26",38,1,0,"2023 All-Star HR Challenge",0,0
+202,"2023-9-5",15,0,0,"2023 PLAYOFFS BEGIN",0,0
+203,"2023-4-6",12,0,0,"OPENING DAY",0,0
+203,"2023-4-17",104,0,0,"Player of the Week Award Announcement, Week no. 16",0,0
+203,"2023-4-24",104,0,0,"Player of the Week Award Announcement, Week no. 17",0,0
+203,"2023-5-1",104,0,0,"Player of the Week Award Announcement, Week no. 18",0,0
+203,"2023-5-1",101,0,0,"Batter of the Month Award Announcement",0,0
+203,"2023-5-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+203,"2023-5-8",104,0,0,"Player of the Week Award Announcement, Week no. 19",0,0
+203,"2023-5-15",104,0,0,"Player of the Week Award Announcement, Week no. 20",0,0
+203,"2023-5-22",104,0,0,"Player of the Week Award Announcement, Week no. 21",0,0
+203,"2023-5-29",104,0,0,"Player of the Week Award Announcement, Week no. 22",0,0
+203,"2023-6-1",101,0,0,"Batter of the Month Award Announcement",0,0
+203,"2023-6-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+203,"2023-6-5",104,0,0,"Player of the Week Award Announcement, Week no. 23",0,0
+203,"2023-6-12",104,0,0,"Player of the Week Award Announcement, Week no. 24",0,0
+203,"2023-6-19",104,0,0,"Player of the Week Award Announcement, Week no. 25",0,0
+203,"2023-6-26",104,0,0,"Player of the Week Award Announcement, Week no. 26",0,0
+203,"2023-7-1",101,0,0,"Batter of the Month Award Announcement",0,0
+203,"2023-7-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+203,"2023-7-3",104,0,0,"Player of the Week Award Announcement, Week no. 27",0,0
+203,"2023-7-10",104,0,0,"Player of the Week Award Announcement, Week no. 28",0,0
+203,"2023-7-17",104,0,0,"Player of the Week Award Announcement, Week no. 29",0,0
+203,"2023-7-24",104,0,0,"Player of the Week Award Announcement, Week no. 30",0,0
+203,"2023-7-31",104,0,0,"Player of the Week Award Announcement, Week no. 31",0,0
+203,"2023-8-1",101,0,0,"Batter of the Month Award Announcement",0,0
+203,"2023-8-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+203,"2023-8-7",104,0,0,"Player of the Week Award Announcement, Week no. 32",0,0
+203,"2023-8-14",104,0,0,"Player of the Week Award Announcement, Week no. 33",0,0
+203,"2023-8-21",104,0,0,"Player of the Week Award Announcement, Week no. 34",0,0
+203,"2023-8-28",104,0,0,"Player of the Week Award Announcement, Week no. 35",0,0
+203,"2023-9-1",101,0,0,"Batter of the Month Award Announcement",0,0
+203,"2023-9-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+203,"2023-9-4",104,0,0,"Player of the Week Award Announcement, Week no. 36",0,0
+203,"2023-9-4",13,0,0,"Regular Season Ends",0,0
+203,"2023-9-30",16,0,0,"Offseason starts",0,0
+203,"2023-10-8",25,0,0,"Great Glove Award announced",0,0
+203,"2023-10-9",32,0,0,"Reliever of the Year Award announced",0,0
+203,"2023-6-26",38,1,0,"2023 All-Star HR Challenge",0,0
+203,"2023-9-5",15,0,0,"2023 PLAYOFFS BEGIN",0,0
+204,"2023-6-20",12,0,0,"OPENING DAY",0,0
+204,"2023-6-26",104,0,0,"Player of the Week Award Announcement, Week no. 26",0,0
+204,"2023-7-3",104,0,0,"Player of the Week Award Announcement, Week no. 27",0,0
+204,"2023-7-10",104,0,0,"Player of the Week Award Announcement, Week no. 28",0,0
+204,"2023-7-17",104,0,0,"Player of the Week Award Announcement, Week no. 29",0,0
+204,"2023-7-24",104,0,0,"Player of the Week Award Announcement, Week no. 30",0,0
+204,"2023-7-31",104,0,0,"Player of the Week Award Announcement, Week no. 31",0,0
+204,"2023-8-1",101,0,0,"Batter of the Month Award Announcement",0,0
+204,"2023-8-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+204,"2023-8-7",104,0,0,"Player of the Week Award Announcement, Week no. 32",0,0
+204,"2023-8-14",104,0,0,"Player of the Week Award Announcement, Week no. 33",0,0
+204,"2023-8-21",104,0,0,"Player of the Week Award Announcement, Week no. 34",0,0
+204,"2023-8-28",104,0,0,"Player of the Week Award Announcement, Week no. 35",0,0
+204,"2023-9-1",101,0,0,"Batter of the Month Award Announcement",0,0
+204,"2023-9-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+204,"2023-9-4",104,0,0,"Player of the Week Award Announcement, Week no. 36",0,0
+204,"2023-9-11",104,0,0,"Player of the Week Award Announcement, Week no. 37",0,0
+204,"2023-9-12",13,0,0,"Regular Season Ends",0,0
+204,"2023-10-11",16,0,0,"Offseason starts",0,0
+204,"2023-10-19",25,0,0,"Great Glove Award announced",0,0
+204,"2023-10-20",32,0,0,"Reliever of the Year Award announced",0,0
+204,"2023-8-8",38,1,0,"2023 All-Star HR Challenge",0,0
+204,"2023-9-13",15,0,0,"2023 PLAYOFFS BEGIN",0,0
+205,"2023-6-20",12,0,0,"OPENING DAY",0,0
+205,"2023-6-26",104,0,0,"Player of the Week Award Announcement, Week no. 26",0,0
+205,"2023-7-3",104,0,0,"Player of the Week Award Announcement, Week no. 27",0,0
+205,"2023-7-10",104,0,0,"Player of the Week Award Announcement, Week no. 28",0,0
+205,"2023-7-17",104,0,0,"Player of the Week Award Announcement, Week no. 29",0,0
+205,"2023-7-24",104,0,0,"Player of the Week Award Announcement, Week no. 30",0,0
+205,"2023-7-31",104,0,0,"Player of the Week Award Announcement, Week no. 31",0,0
+205,"2023-8-1",101,0,0,"Batter of the Month Award Announcement",0,0
+205,"2023-8-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+205,"2023-8-7",104,0,0,"Player of the Week Award Announcement, Week no. 32",0,0
+205,"2023-8-14",104,0,0,"Player of the Week Award Announcement, Week no. 33",0,0
+205,"2023-8-21",104,0,0,"Player of the Week Award Announcement, Week no. 34",0,0
+205,"2023-8-28",104,0,0,"Player of the Week Award Announcement, Week no. 35",0,0
+205,"2023-9-1",101,0,0,"Batter of the Month Award Announcement",0,0
+205,"2023-9-1",102,0,0,"Pitcher of the Month Award Announcement",0,0
+205,"2023-9-4",104,0,0,"Player of the Week Award Announcement, Week no. 36",0,0
+205,"2023-9-4",13,0,0,"Regular Season Ends",0,0
+205,"2023-9-30",16,0,0,"Offseason starts",0,0
+205,"2023-10-8",25,0,0,"Great Glove Award announced",0,0
+205,"2023-10-9",32,0,0,"Reliever of the Year Award announced",0,0
+205,"2023-8-3",38,1,0,"2023 All-Star HR Challenge",0,0
+205,"2023-9-6",15,0,0,"2023 PLAYOFFS BEGIN",0,0
+200,"2023-11-10",21,0,0,"Manager of the Year announced",0,0
+203,"2023-10-10",31,0,0,"Platinum Stick Award announced",0,0
+203,"2023-10-11",21,0,0,"Manager of the Year announced",0,0
+203,"2023-10-12",23,0,0,"Pitcher of the Year Award announced",0,0
+203,"2023-10-13",22,0,0,"Most Valuable Player Award announced",0,0
+203,"2024-3-5",10,0,0,"Preseason begins",0,0
+203,"2024-4-4",12,0,0,"Regular Season begins",0,0
+205,"2023-10-10",31,0,0,"Platinum Stick Award announced",0,0
+205,"2023-10-11",21,0,0,"Manager of the Year announced",0,0
+205,"2023-10-12",23,0,0,"Pitcher of the Year Award announced",0,0
+205,"2023-10-13",22,0,0,"Most Valuable Player Award announced",0,0
+205,"2024-5-26",10,0,0,"Preseason begins",0,0
+205,"2024-6-25",12,0,0,"Regular Season begins",0,0
+202,"2023-10-13",31,0,0,"Platinum Stick Award announced",0,0
+202,"2023-10-14",21,0,0,"Manager of the Year announced",0,0
+202,"2023-10-15",23,0,0,"Pitcher of the Year Award announced",0,0
+202,"2023-10-16",22,0,0,"Most Valuable Player Award announced",0,0
+202,"2024-3-5",10,0,0,"Preseason begins",0,0
+202,"2024-4-4",12,0,0,"Regular Season begins",0,0
+204,"2023-10-21",31,0,0,"Platinum Stick Award announced",0,0
+204,"2023-10-22",21,0,0,"Manager of the Year announced",0,0
+204,"2023-10-23",23,0,0,"Pitcher of the Year Award announced",0,0
+204,"2023-10-24",22,0,0,"Most Valuable Player Award announced",0,0
+204,"2024-5-26",10,0,0,"Preseason begins",0,0
+204,"2024-6-25",12,0,0,"Regular Season begins",0,0
+201,"2023-10-22",31,0,0,"Platinum Stick Award announced",0,0
+201,"2023-10-23",21,0,0,"Manager of the Year announced",0,0
+201,"2023-10-24",23,0,0,"Pitcher of the Year Award announced",0,0
+201,"2023-10-25",22,0,0,"Most Valuable Player Award announced",0,0
+201,"2024-3-10",10,0,0,"Preseason begins",0,0
+201,"2024-4-9",12,0,0,"Regular Season begins",0,0
+200,"2023-11-11",23,0,0,"Pitcher of the Year Award announced",0,0
+200,"2023-11-12",22,0,0,"Most Valuable Player Award announced",0,0
+200,"2023-11-19",8,0,0,"Salary Arbitration Hearings",0,0
+200,"2023-11-21",17,0,0,"Free Agency Filings",0,0
+200,"2023-12-8",18,0,0,"Winter Meetings start",0,0
+200,"2023-12-11",19,0,0,"Winter Meetings end",0,0
+200,"2023-12-13",4,0,0,"Rule 5 Draft",1,0
+200,"2024-1-27",10,0,0,"Preseason begins",0,0
+200,"2024-2-24",11,0,0,"Spring Training begins",0,0
+200,"2024-4-1",12,0,0,"Regular Season begins",0,0
+200,"2024-1-17",30,0,0,"Hall of Fame Voting Results",0,0
+200,"2023-12-3",33,0,0,"Hall of Fame Voting Begins",0,0
